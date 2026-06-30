@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sakshamraana/DSA/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/sakshamraana/DSA/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/sakshamraana/DSA/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/sakshamraana/DSA/tree/master/0088-merge-sorted-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/sakshamraana/DSA/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
@@ -42,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sakshamraana/DSA/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/sakshamraana/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sakshamraana/DSA/tree/master/0171-excel-sheet-column-number) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sakshamraana/DSA/tree/master/0048-rotate-image) |
 | [2352-equal-row-and-column-pairs](https://github.com/sakshamraana/DSA/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
