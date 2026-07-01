@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sakshamraana/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/sakshamraana/DSA/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/sakshamraana/DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/sakshamraana/DSA/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/sakshamraana/DSA/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/sakshamraana/DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sakshamraana/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshamraana/DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/sakshamraana/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sakshamraana/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakshamraana/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sakshamraana/DSA/tree/master/0389-find-the-difference) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sakshamraana/DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/sakshamraana/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sakshamraana/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/sakshamraana/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sakshamraana/DSA/tree/master/0645-set-mismatch) |
