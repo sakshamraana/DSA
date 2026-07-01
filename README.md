@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sakshamraana/DSA/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/sakshamraana/DSA/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/sakshamraana/DSA/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sakshamraana/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/sakshamraana/DSA/tree/master/1470-shuffle-the-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sakshamraana/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/sakshamraana/DSA/tree/master/1929-concatenation-of-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sakshamraana/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sakshamraana/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sakshamraana/DSA/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sakshamraana/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sakshamraana/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2352-equal-row-and-column-pairs](https://github.com/sakshamraana/DSA/tree/master/2352-equal-row-and-column-pairs) |
 ## String
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sakshamraana/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/sakshamraana/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sakshamraana/DSA/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sakshamraana/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sakshamraana/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Math
 |  |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/sakshamraana/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sakshamraana/DSA/tree/master/0645-set-mismatch) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sakshamraana/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
