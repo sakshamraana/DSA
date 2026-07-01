@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sakshamraana/DSA/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakshamraana/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sakshamraana/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sakshamraana/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/sakshamraana/DSA/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/sakshamraana/DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sakshamraana/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sakshamraana/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sakshamraana/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sakshamraana/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sakshamraana/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakshamraana/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sakshamraana/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sakshamraana/DSA/tree/master/0645-set-mismatch) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sakshamraana/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sakshamraana/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sakshamraana/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sakshamraana/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sakshamraana/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sakshamraana/DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sakshamraana/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sakshamraana/DSA/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/sakshamraana/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sakshamraana/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0268-missing-number](https://github.com/sakshamraana/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sakshamraana/DSA/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/sakshamraana/DSA/tree/master/1512-number-of-good-pairs) |
 ## Matrix
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sakshamraana/DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sakshamraana/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakshamraana/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/sakshamraana/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sakshamraana/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sakshamraana/DSA/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sakshamraana/DSA/tree/master/0645-set-mismatch) |
 ## Counting Sort
