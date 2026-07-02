@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/sakshamraana/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/sakshamraana/DSA/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/sakshamraana/DSA/tree/master/2352-equal-row-and-column-pairs) |
+| [2553-separate-the-digits-in-an-array](https://github.com/sakshamraana/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sakshamraana/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sakshamraana/DSA/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/sakshamraana/DSA/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/sakshamraana/DSA/tree/master/2352-equal-row-and-column-pairs) |
+| [2553-separate-the-digits-in-an-array](https://github.com/sakshamraana/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
