@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sakshamraana/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/sakshamraana/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/sakshamraana/DSA/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/sakshamraana/DSA/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sakshamraana/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/sakshamraana/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/sakshamraana/DSA/tree/master/1929-concatenation-of-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sakshamraana/DSA/tree/master/0048-rotate-image) |
+| [1672-richest-customer-wealth](https://github.com/sakshamraana/DSA/tree/master/1672-richest-customer-wealth) |
 | [2352-equal-row-and-column-pairs](https://github.com/sakshamraana/DSA/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
