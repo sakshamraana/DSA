@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/sakshamraana/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/sakshamraana/DSA/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/sakshamraana/DSA/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/sakshamraana/DSA/tree/master/0796-rotate-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sakshamraana/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/sakshamraana/DSA/tree/master/2129-capitalize-the-title) |
 | [2810-faulty-keyboard](https://github.com/sakshamraana/DSA/tree/master/2810-faulty-keyboard) |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sakshamraana/DSA/tree/master/0234-palindrome-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sakshamraana/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
