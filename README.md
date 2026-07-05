@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sakshamraana/DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/sakshamraana/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/sakshamraana/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/sakshamraana/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sakshamraana/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshamraana/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -166,8 +167,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sakshamraana/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sakshamraana/DSA/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/sakshamraana/DSA/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sakshamraana/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sakshamraana/DSA/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sakshamraana/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
