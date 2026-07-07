@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sakshamraana/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/sakshamraana/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/sakshamraana/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sakshamraana/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sakshamraana/DSA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/sakshamraana/DSA/tree/master/0168-excel-sheet-column-title) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sakshamraana/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/sakshamraana/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sakshamraana/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sakshamraana/DSA/tree/master/0231-power-of-two) |
