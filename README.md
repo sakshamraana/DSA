@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sakshamraana/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/sakshamraana/DSA/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/sakshamraana/DSA/tree/master/0645-set-mismatch) |
+| [0989-add-to-array-form-of-integer](https://github.com/sakshamraana/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sakshamraana/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/sakshamraana/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/sakshamraana/DSA/tree/master/1512-number-of-good-pairs) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/sakshamraana/DSA/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/sakshamraana/DSA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/sakshamraana/DSA/tree/master/0412-fizz-buzz) |
+| [0989-add-to-array-form-of-integer](https://github.com/sakshamraana/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sakshamraana/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/sakshamraana/DSA/tree/master/1512-number-of-good-pairs) |
 | [1925-count-square-sum-triples](https://github.com/sakshamraana/DSA/tree/master/1925-count-square-sum-triples) |
