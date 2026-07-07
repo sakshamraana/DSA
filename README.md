@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sakshamraana/DSA/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sakshamraana/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/sakshamraana/DSA/tree/master/1512-number-of-good-pairs) |
+| [2427-number-of-common-factors](https://github.com/sakshamraana/DSA/tree/master/2427-number-of-common-factors) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sakshamraana/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Matrix
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sakshamraana/DSA/tree/master/0258-add-digits) |
+| [2427-number-of-common-factors](https://github.com/sakshamraana/DSA/tree/master/2427-number-of-common-factors) |
 ## Brainteaser
 |  |
 | ------- |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sakshamraana/DSA/tree/master/0292-nim-game) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/sakshamraana/DSA/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
