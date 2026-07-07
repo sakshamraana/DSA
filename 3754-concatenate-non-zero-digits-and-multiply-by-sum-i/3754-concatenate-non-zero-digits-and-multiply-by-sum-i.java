@@ -16,6 +16,7 @@ class Solution {
           sum+=c;
           rev/=10;
         }
-        return org*sum;
+        long b=org*sum;
+        return b;
     }
 }
