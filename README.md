@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sakshamraana/DSA/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/sakshamraana/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/sakshamraana/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sakshamraana/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sakshamraana/DSA/tree/master/0066-plus-one) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sakshamraana/DSA/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/sakshamraana/DSA/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/sakshamraana/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sakshamraana/DSA/tree/master/0268-missing-number) |
