@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshamraana/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/sakshamraana/DSA/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sakshamraana/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sakshamraana/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sakshamraana/DSA/tree/master/0035-search-insert-position) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sakshamraana/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/sakshamraana/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/sakshamraana/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sakshamraana/DSA/tree/master/0171-excel-sheet-column-number) |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-count-good-triplets](https://github.com/sakshamraana/DSA/tree/master/1534-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/sakshamraana/DSA/tree/master/1925-count-square-sum-triples) |
 | [2427-number-of-common-factors](https://github.com/sakshamraana/DSA/tree/master/2427-number-of-common-factors) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sakshamraana/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
