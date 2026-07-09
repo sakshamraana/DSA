@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/sakshamraana/DSA/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/sakshamraana/DSA/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/sakshamraana/DSA/tree/master/0412-fizz-buzz) |
+| [0633-sum-of-square-numbers](https://github.com/sakshamraana/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/sakshamraana/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sakshamraana/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/sakshamraana/DSA/tree/master/1512-number-of-good-pairs) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sakshamraana/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshamraana/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/sakshamraana/DSA/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/sakshamraana/DSA/tree/master/0633-sum-of-square-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sakshamraana/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/sakshamraana/DSA/tree/master/2540-minimum-common-value) |
 ## Two Pointers
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sakshamraana/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sakshamraana/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshamraana/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/sakshamraana/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/sakshamraana/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakshamraana/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sakshamraana/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
