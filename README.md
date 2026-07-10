@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sakshamraana/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/sakshamraana/DSA/tree/master/2129-capitalize-the-title) |
 | [2810-faulty-keyboard](https://github.com/sakshamraana/DSA/tree/master/2810-faulty-keyboard) |
+| [3794-reverse-string-prefix](https://github.com/sakshamraana/DSA/tree/master/3794-reverse-string-prefix) |
 ## Queue
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/sakshamraana/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sakshamraana/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/sakshamraana/DSA/tree/master/2540-minimum-common-value) |
+| [3794-reverse-string-prefix](https://github.com/sakshamraana/DSA/tree/master/3794-reverse-string-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
