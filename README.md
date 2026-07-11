@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/sakshamraana/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sakshamraana/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sakshamraana/DSA/tree/master/2733-neither-minimum-nor-maximum) |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/sakshamraana/DSA/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 ## Hash Table
 |  |
 | ------- |
