@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/sakshamraana/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/sakshamraana/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sakshamraana/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sakshamraana/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1470-shuffle-the-array](https://github.com/sakshamraana/DSA/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/sakshamraana/DSA/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/sakshamraana/DSA/tree/master/1534-count-good-triplets) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sakshamraana/DSA/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/sakshamraana/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sakshamraana/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sakshamraana/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/sakshamraana/DSA/tree/master/1512-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sakshamraana/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/sakshamraana/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sakshamraana/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sakshamraana/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sakshamraana/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sakshamraana/DSA/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sakshamraana/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sakshamraana/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/sakshamraana/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
