@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sakshamraana/DSA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sakshamraana/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sakshamraana/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/sakshamraana/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/sakshamraana/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshamraana/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/sakshamraana/DSA/tree/master/0367-valid-perfect-square) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/sakshamraana/DSA/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/sakshamraana/DSA/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/sakshamraana/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sakshamraana/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sakshamraana/DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/sakshamraana/DSA/tree/master/0371-sum-of-two-integers) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sakshamraana/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sakshamraana/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sakshamraana/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/sakshamraana/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -309,4 +312,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sakshamraana/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sakshamraana/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sakshamraana/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/sakshamraana/DSA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
