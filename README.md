@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/sakshamraana/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/sakshamraana/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/sakshamraana/DSA/tree/master/2540-minimum-common-value) |
+| [2549-count-distinct-numbers-on-board](https://github.com/sakshamraana/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sakshamraana/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sakshamraana/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/sakshamraana/DSA/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/sakshamraana/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/sakshamraana/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/sakshamraana/DSA/tree/master/2540-minimum-common-value) |
+| [2549-count-distinct-numbers-on-board](https://github.com/sakshamraana/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 ## String
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/sakshamraana/DSA/tree/master/1925-count-square-sum-triples) |
 | [2119-a-number-after-a-double-reversal](https://github.com/sakshamraana/DSA/tree/master/2119-a-number-after-a-double-reversal) |
 | [2427-number-of-common-factors](https://github.com/sakshamraana/DSA/tree/master/2427-number-of-common-factors) |
+| [2549-count-distinct-numbers-on-board](https://github.com/sakshamraana/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sakshamraana/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sakshamraana/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Matrix
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sakshamraana/DSA/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/sakshamraana/DSA/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/sakshamraana/DSA/tree/master/2352-equal-row-and-column-pairs) |
+| [2549-count-distinct-numbers-on-board](https://github.com/sakshamraana/DSA/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sakshamraana/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/sakshamraana/DSA/tree/master/2810-faulty-keyboard) |
 ## Binary Search
