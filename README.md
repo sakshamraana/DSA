@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sakshamraana/DSA/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/sakshamraana/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/sakshamraana/DSA/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/sakshamraana/DSA/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakshamraana/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/sakshamraana/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/sakshamraana/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -350,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sakshamraana/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/sakshamraana/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
